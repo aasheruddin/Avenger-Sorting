@@ -8,10 +8,10 @@ This repository includes solutions to assigments done at my university. Focusing
 ## File Descriptions
 
 ### **A1 (array).java**
--**Description**: Implements tracking of Avengers using an `ArrayList` 
--**Features**:
-  -Uses an ArrayList to store Avengers in the order they appear
-  -Uses sorting with comparators for:
+- **Description**: Implements tracking of Avengers using an `ArrayList` 
+- **Features**:
+  - Uses an ArrayList to store Avengers in the order they appear
+  - Uses sorting with comparators for:
     - Mention frequency (descending).
     - Performer mention frequency (descending).
     - Alphabetical order.
